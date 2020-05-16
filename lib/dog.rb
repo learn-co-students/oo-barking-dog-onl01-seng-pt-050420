@@ -1,1 +1,12 @@
-# Your code goes here!
+``ruby
+fido = Dog.new
+fido.name = "Fido"
+
+fido.name
+# => "Fido"
+
+fido.bark
+woof!
+# => nil
+
+.name= "roxy"
